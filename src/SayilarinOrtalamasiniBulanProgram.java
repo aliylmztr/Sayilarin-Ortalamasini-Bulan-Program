@@ -1,12 +1,6 @@
-# Sayilarin-Ortalamasini-Bulan-Program
-Java Sayilarin Ortalamasini Bulan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
 
         int k, total = 0, number = 0, average;
